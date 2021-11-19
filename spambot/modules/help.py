@@ -68,7 +68,7 @@ dev_caption = """
 **/updates:** Check new updates and updates the bot!!
 **/restart:** Restarts the bot!!(Too fast!! **Supersonic**)
 
-[©️](https://telegra.ph/file/6e92103071aa47ee7023e.mp4) @THE_DEMON_NETWORK
+[©️](https://telegra.ph/file/6e92103071aa47ee7023e.mp4) [MADE BY](HTTPS://T.ME/THE_DEMON_NETWORK) 
 """
 spam_caption = """
 **ıllıllı★ 𝙷𝚎𝚕𝚙 𝙼𝚎𝚗𝚞 ★ıllıllı**
@@ -94,14 +94,14 @@ Syntax: /replycurse (replying to anyone)
 **/dreplycurse:** Deactivates reply and curse on the user!!
 Syntax: /dreplycurse (replying to anyone)
 
-[©️](https://telegra.ph/file/6e92103071aa47ee7023e.mp4) @THE_DEMON_NETWORK
+[©️](https://telegra.ph/file/6e92103071aa47ee7023e.mp4) [MADE BY](HTTPS://T.ME/THE_DEMON_NETWORK)
 """
 start_img = "https://telegra.ph/file/1312f063f0395fc933edd.mp4"
 help_caption = """
 **Hᴇʏ ᴍᴀsᴛᴇʀ,
 ʏᴏᴜ ᴄᴀɴ ᴀᴄᴄᴇss ᴛʜᴇ ᴡʜᴏʟᴇ ʜᴇʟᴘ ᴍᴇɴᴜ ʙʏ ᴜsɪɴɢ ᴛʜᴇ ɢɪᴠᴇɴ ʙᴜᴛᴛᴏɴs!**
 
-[©️](https://telegra.ph/file/6e92103071aa47ee7023e.mp4) @THE_DEMON_NETWORK
+[©️](https://telegra.ph/file/6e92103071aa47ee7023e.mp4) [MADE BY](HTTPS://T.ME/THE_DEMON_NETWORK)
 """
 start_caption = f"""
 **Nᴏᴡ ᴍᴇ ᴛᴏ ɪɴᴛʀᴏᴅᴜᴄᴇ ᴍʏsᴇʟғ.
@@ -112,12 +112,12 @@ I ᴄᴀɴ sᴘᴀᴍ ᴄᴏɴᴛɪɴᴜᴏsʟʏ ᴡɪᴛʜ ʟᴇss ғʟᴏᴏ�
 **█▓▒­░⡷⠂ᗰᗩՏTᗴᖇ⠂⢾░▒▓█**
 **『 [{DEFAULTUSER}](tg://user?id={OWNER_ID}) 』**
 
-[©️](https://telegra.ph/file/eb342250ffb24284a922d.jpg) @THE_DEMON_NETWORK
+[©️](https://telegra.ph/file/eb342250ffb24284a922d.jpg) [MADE BY](HTTPS://T.ME/THE_DEMON_NETWORK)
 """
 close_caption = """
 **Hᴇʟᴘ ᴍᴇɴᴜ ʜᴀs ʙᴇᴇɴ ᴄʟᴏsᴇᴅ!!**
 
-©️ @THE_DEMON_NETWORK
+©️ [MADE BY](HTTPS://T.ME/THE_DEMON_NETWORK)
 """
 helpbuttons = [
     [
