@@ -68,7 +68,7 @@ dev_caption = """
 **/updates:** Check new updates and updates the bot!!
 **/restart:** Restarts the bot!!(Too fast!! **Supersonic**)
 
-[©️](https://telegra.ph/file/6e92103071aa47ee7023e.mp4) @TeamGladiators
+[©️](https://telegra.ph/file/6e92103071aa47ee7023e.mp4) @THE_DEMON_NETWORK
 """
 spam_caption = """
 **ıllıllı★ 𝙷𝚎𝚕𝚙 𝙼𝚎𝚗𝚞 ★ıllıllı**
@@ -94,14 +94,14 @@ Syntax: /replycurse (replying to anyone)
 **/dreplycurse:** Deactivates reply and curse on the user!!
 Syntax: /dreplycurse (replying to anyone)
 
-[©️](https://telegra.ph/file/6e92103071aa47ee7023e.mp4) @TeamGladiators
+[©️](https://telegra.ph/file/6e92103071aa47ee7023e.mp4) @THE_DEMON_NETWORK
 """
 start_img = "https://telegra.ph/file/1312f063f0395fc933edd.mp4"
 help_caption = """
 **Hᴇʏ ᴍᴀsᴛᴇʀ,
 ʏᴏᴜ ᴄᴀɴ ᴀᴄᴄᴇss ᴛʜᴇ ᴡʜᴏʟᴇ ʜᴇʟᴘ ᴍᴇɴᴜ ʙʏ ᴜsɪɴɢ ᴛʜᴇ ɢɪᴠᴇɴ ʙᴜᴛᴛᴏɴs!**
 
-[©️](https://telegra.ph/file/6e92103071aa47ee7023e.mp4) @TeamGladiators
+[©️](https://telegra.ph/file/6e92103071aa47ee7023e.mp4) @THE_DEMON_NETWORK
 """
 start_caption = f"""
 **Nᴏᴡ ᴍᴇ ᴛᴏ ɪɴᴛʀᴏᴅᴜᴄᴇ ᴍʏsᴇʟғ.
@@ -112,12 +112,12 @@ I ᴄᴀɴ sᴘᴀᴍ ᴄᴏɴᴛɪɴᴜᴏsʟʏ ᴡɪᴛʜ ʟᴇss ғʟᴏᴏ�
 **█▓▒­░⡷⠂ᗰᗩՏTᗴᖇ⠂⢾░▒▓█**
 **『 [{DEFAULTUSER}](tg://user?id={OWNER_ID}) 』**
 
-[©️](https://telegra.ph/file/ec3c057fcba5594151601.jpg) @TeamGladiators
+[©️](https://telegra.ph/file/ec3c057fcba5594151601.jpg) @THE_DEMON_NETWORK
 """
 close_caption = """
 **Hᴇʟᴘ ᴍᴇɴᴜ ʜᴀs ʙᴇᴇɴ ᴄʟᴏsᴇᴅ!!**
 
-©️ @TeamGladiators
+©️ @THE_DEMON_NETWORK
 """
 helpbuttons = [
     [
@@ -141,14 +141,14 @@ help_buttons = [
 startbuttons = [
     [
         InlineKeyboardButton(
-            text="Repo", url="https://github.com/Gladiators-Projects/SpamBot"),
+            text="NETWORK", url="https://t.me/the_demon_network"),
         InlineKeyboardButton(
-            text="Support", url=f"https://t.me/Gladiators_Support"
+            text="Support", url=f"https://t.me/SATAN_SUPPORT"
         ),
     ],
     [
         InlineKeyboardButton(
-            text="Github Organisation", url="https://github.com/Gladiators-Projects"),
+            text="NETWORK", url="https://t.me/the_demon_network"),
     ]
 ]
   
@@ -201,7 +201,7 @@ def help_menu(update, context):
         ms = (ping_end-ping_start).microseconds / 1000
         uptime = TeamArsenic_time((time.time() - Start_time) * 1000)
         pong = f"""
-        •• Pᴏɴɢ !! ••
+        •• JINDA HU BHAI !! ••
         ⏱ Pɪɴɢ sᴘᴇᴇᴅ : {ms}ᴍs
         ⏳ Uᴘᴛɪᴍᴇ - {uptime}
         """
