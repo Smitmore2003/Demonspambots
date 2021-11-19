@@ -112,7 +112,7 @@ I ᴄᴀɴ sᴘᴀᴍ ᴄᴏɴᴛɪɴᴜᴏsʟʏ ᴡɪᴛʜ ʟᴇss ғʟᴏᴏ�
 **█▓▒­░⡷⠂ᗰᗩՏTᗴᖇ⠂⢾░▒▓█**
 **『 [{DEFAULTUSER}](tg://user?id={OWNER_ID}) 』**
 
-[©️](https://telegra.ph/file/ec3c057fcba5594151601.jpg) @THE_DEMON_NETWORK
+[©️](https://telegra.ph/file/eb342250ffb24284a922d.jpg) @THE_DEMON_NETWORK
 """
 close_caption = """
 **Hᴇʟᴘ ᴍᴇɴᴜ ʜᴀs ʙᴇᴇɴ ᴄʟᴏsᴇᴅ!!**
@@ -148,7 +148,7 @@ startbuttons = [
     ],
     [
         InlineKeyboardButton(
-            text="NETWORK", url="https://t.me/the_demon_network"),
+            text="THE SATAN BOT", url="https://t.me/the_SATAN_BOT"),
     ]
 ]
   
@@ -202,8 +202,8 @@ def help_menu(update, context):
         uptime = TeamArsenic_time((time.time() - Start_time) * 1000)
         pong = f"""
         •• JINDA HU BHAI !! ••
-        ⏱ Pɪɴɢ sᴘᴇᴇᴅ : {ms}ᴍs
-        ⏳ Uᴘᴛɪᴍᴇ - {uptime}
+        ⏱ SPEED : {ms}ᴍs
+        ⏳ UPTIME - {uptime}
         """
         query.answer(pong, alert=True)
     if query.data == "back":
